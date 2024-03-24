@@ -1,0 +1,25 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>CV</h1>
+  <h2>Carlos L.</h2>
+  <hr />
+  <br>
+  <p class="head">Intereses</p>
+  <ul>
+    <li>Dibujo</li>
+    <li>Diseño Web</li>
+    <li>Programacion</li>
+  </ul>  
+  <p class="head">Educación</p>
+  <ul>
+    <li>Universidad Galileo</li> 
+  </ul>
+  <p class="head">Experiencia</p>
+  <ul>
+    <li>Desarrollador de Software</li>
+    <li>Diseño Web</li>
+  </ul>
+</div>
+<div class="right"></div>
